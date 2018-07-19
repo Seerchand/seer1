@@ -1,0 +1,189 @@
+.parent
+{
+  display:flex;
+  flex-direction: row;
+  border:3px solid red;
+}
+.childone{
+  border: 3px solid blue;
+  padding:2%;
+  margin:3%;
+  width:30%;
+  border-radius: 10%;
+  text-align: center;
+  background-color: pink;
+
+}
+img{
+  width:50%;
+  border:10px solid skyblue;
+  display:block;
+  border-radius: 50%;
+  margin-left:auto ;
+  margin-right:auto;
+
+}
+h3{
+  word-wrap: break-word;
+}
+h2
+{
+  word-wrap: break-word;
+}
+.childtwo{
+  border: 3px solid blue;
+  padding:2%;
+  margin:3%;
+  width:70%;
+  border-radius:10%;
+  background-color: pink;
+}
+table{
+  width:90%;
+}
+td
+{
+  padding:2%;
+}
+@media only screen  and (min-width:180px) and (max-width:480px){
+
+
+  .parent
+{
+  display:flex;
+  flex-direction: column;
+  border:3px solid red;
+}
+.a{
+  word-wrap: break-word;
+}
+h3{
+  word-wrap: break-word;
+}
+h2
+{
+  word-wrap: break-word;
+}
+.childone{
+  border: 3px solid blue;
+  padding:2%;
+  margin:2%;
+  background-color: skyblue;
+  width:90%;
+  border-radius: 10%;
+}
+img{
+  width:50%;
+  border:10px solid pink;
+  display:block;
+  border-radius: 50%;
+  margin-left:auto ;
+  margin-right:auto;
+}
+.childtwo{
+  border: 3px solid blue;
+  background-color: pink;
+  padding:2%;
+  margin:2%;
+  width:90%;
+  border-radius:10%;
+  background-color: pink;
+}
+table{
+  width:70%;
+  background-color: skyblue;
+}
+td
+{
+  padding:2%;
+}
+}
+@media only screen and  (min-width:480px) and (max-width:761px){
+  .parent
+{
+  display:flex;
+  flex-direction: row;
+  border:3px solid red;
+}
+.a{
+  word-wrap: break-word;
+}
+.childone{
+  border: 3px solid blue;
+  padding:2%;
+  margin:2%;
+  background-color: skyblue;
+  width:90%;
+  border-radius: 10%;
+  background-color: pink;
+}
+img{
+  width:50%;
+border:10px solid skyblue;
+  display:block;
+  border-radius: 50%;
+  margin-left:auto ;
+  margin-right:auto;
+}
+.childtwo{
+  border: 3px solid blue;
+  background-color: pink;
+  padding:2%;
+  margin:2%;
+  width:70%;
+  border-radius:10%;
+  background-color: #B5FF33  ;
+}
+table{
+  width:80%;
+  background-color:skyblue;
+}
+ td
+ {
+   padding:2%;
+ }
+ @media only screen and  (min-width:761px) and (max-width:1024px){
+   .parent
+ {
+   display:flex;
+   flex-direction: row;
+   border:3px solid red;
+ }
+ .a{
+   word-wrap: break-word;
+ }
+ .childone{
+   border: 3px solid blue;
+   padding:2%;
+   margin:2%;
+   background-color: skyblue;
+   width:90%;
+   border-radius: 10%;
+   background-color: pink;
+ }
+ img{
+   width:50%;
+ border:10px solid skyblue;
+   display:block;
+   border-radius: 50%;
+   margin-left:auto ;
+   margin-right:auto;
+ }
+ .childtwo{
+   border: 3px solid blue;
+   background-color: pink;
+   padding:2%;
+   margin:2%;
+   width:70%;
+   border-radius:10%;
+   background-color: #B5FF33  ;
+ }
+ table{
+   width:80%;
+   background-color:skyblue;
+ }
+  td
+  {
+    padding:2%;
+  }
+}

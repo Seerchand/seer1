@@ -1,0 +1,53 @@
+{"basics":
+{
+  "image":"j.jpg",
+  "name":"SEERSHA",
+  "phoneno":"+91 999000000",
+  "email":"srkr123@gmail.com",
+  "address":"bhimavaram"
+},
+"CareerObjective":{
+  "Info":"I want to be a WEB DEVELOPER"
+},
+"education":[
+   {
+  "degree":"Btech",
+  "institute":"SRKR Engineering college",
+  "date":[" 2016-2020,90%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"Sri Chaitanya junior college",
+  "date":[" 2014-2016,97%"]
+},
+{
+  "degree":"10th",
+  "institute":"Dr.KKK's Gowtham Concept School",
+  "date":["2013-2014,95%"]
+}
+],
+"skills":[
+  {
+    "title":"Languages",
+    "data":"C,C++,JAVA,python"
+  },
+  {
+    "title":"Data Base",
+    "data":"ORACLE,SQL"
+  },
+  {
+    "title":"Operating Systems",
+    "data":"LINUX,WINDOWS"
+  }
+],
+"achievements":[
+{"competition":"CODE MASTER-58th position in college"
+},
+{
+  "competition":"PPT Presentation-1st prize"
+},
+{
+  "competition":"Paper Presentation-2nd prize"
+}
+]
+}
